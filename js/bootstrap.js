@@ -1792,7 +1792,7 @@ if (typeof jQuery === 'undefined') {
   })
 
 
-  // NOTE: POPOVER EXTENDS tooltip.js
+  // NOTE:0 POPOVER EXTENDS tooltip.js
   // ================================
 
   Popover.prototype = $.extend({}, $.fn.tooltip.Constructor.prototype)
